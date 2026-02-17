@@ -80,14 +80,6 @@ Based on the analysis:
 
 ---
 
-## Repository Structure
-- `notebooks/` – Google Colab notebook containing full analysis
-- `results/` – Visualizations and summary outputs
-- `results/figures/` – Exported plots
-- `data/` – Dataset reference information
-
----
-
 ## Technologies Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab
 
