@@ -19,9 +19,6 @@ Key preprocessing steps include handling structured missing values, standardizin
 ## Exploratory Data Analysis
 EDA focuses on aggregated and frequency-based visualizations to account for the discrete and survey-driven nature of the dataset.
 
-## Machine Learning (Optional)
-A lightweight predictive model is applied using cleaned numeric features to explore rating and adoption prediction.
-
 ## Insights & Recommendations
 The analysis highlights the importance of regulatory trust, usability, and adoption signals in driving app success.
 
